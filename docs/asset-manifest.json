@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rest-Country-API/static/css/main.60245fd7.css",
+    "main.js": "/Rest-Country-API/static/js/main.abf1bd34.js",
+    "index.html": "/Rest-Country-API/index.html",
+    "main.60245fd7.css.map": "/Rest-Country-API/static/css/main.60245fd7.css.map",
+    "main.abf1bd34.js.map": "/Rest-Country-API/static/js/main.abf1bd34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60245fd7.css",
+    "static/js/main.abf1bd34.js"
+  ]
+}
